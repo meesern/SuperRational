@@ -5,10 +5,9 @@ image: /img/home-jumbotron.jpg
 heading: Thinking Beyond Reduction
 subheading: The Metaphysics of Metaphor
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  All forms of enquiry across the world take the form: "What is the world like?" Whether we are 
+  wondering about Chemistry or God.  Mostly we want to know the Truth.  But how does this all change
+  when we give some thought to the 'like' of wanting to know what the world is like?
 intro:
   blurbs:
     - image: /img/coffee.png
