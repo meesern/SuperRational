@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Comments from '../components/Comments'
 
 export const BlogPostTemplate = ({
   content,
@@ -39,6 +40,11 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <Comments page_id={title}/>
           </div>
         </div>
       </div>
