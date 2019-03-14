@@ -6,14 +6,16 @@ title: About SuperRational
 
 ![Rupert Meese](/img/img_2162.jpg)
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
 ### Papers
 
 [Academia.Edu](https://independent.academia.edu/RupertMeese)
 
-### Symbolic Modelling
+### [Symbolic Modelling](https://www.researchgate.net/publication/279541687_Symbolic_Modelling_Emergent_Change_though_Metaphor_and_Clean_Language)
 
-### Biodanza
+David Grove, James Lawley, Penny Tompkins and Wendy Sullivan really opened the doors to the role metaphor plays in the functioning of cognition.  
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+
+### [Biodanza](http://www.bionet.name/)
+
+It is surprising how wide ranging the theory behind a therapeutic dance practice can be.  Biodanza was created by the Chilean clinical anthropologist and academic Rolando Torro.  From the ground up it is created from explorations of the structure of human experience.
