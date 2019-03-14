@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
-title: The Metaphysics of Metaphor
+title: About SuperRational
 ---
-### A Project by Rupert Meese
+### A Project by [Rupert Meese](http://rupertmeese.com)
 
 ![Rupert Meese](/img/img_2162.jpg)
 
