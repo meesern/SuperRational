@@ -6,7 +6,7 @@ title: About SuperRational
 
 ![Rupert Meese](/img/img_2162.jpg)
 
-Largely based on letters to my daughter Jessie whhile at University.
+Largely based on letters to my daughter Jessie while at University.
 
 
 ### Papers
