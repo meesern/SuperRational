@@ -8,7 +8,15 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        sort: {fields: [frontmatter___date], order: DESC},
+          ${
+            process.env.NODE_ENV === 'production' ?
+            'filter: {frontmatter: {draft: {ne: true}}}' :
+            ''
+          }
+          limit: 1000
+       ) {
         edges {
           node {
             id

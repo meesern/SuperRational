@@ -1,4 +1,5 @@
 ---
+draft: false
 templateKey: blog-post
 title: An Introduction to Metaphor
 date: 2019-04-02T20:12:44.699Z

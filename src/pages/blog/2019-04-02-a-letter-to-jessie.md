@@ -1,4 +1,5 @@
 ---
+draft: true
 templateKey: blog-post
 title: A Letter to Jessie
 date: 2019-04-02T19:48:25.574Z

@@ -1,4 +1,5 @@
 ---
+draft: false
 templateKey: blog-post
 title: Is 2019 the year we stop of thinking of UFO's as silly?
 date: 2019-02-22T10:39:55.004Z

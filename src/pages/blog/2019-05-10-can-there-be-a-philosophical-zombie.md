@@ -1,4 +1,5 @@
 ---
+draft: true
 templateKey: blog-post
 title: Can there be a Philosophical Zombie?
 date: 2019-05-10T12:21:49.976Z

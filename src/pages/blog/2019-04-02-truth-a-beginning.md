@@ -1,4 +1,5 @@
 ---
+draft: false
 templateKey: blog-post
 title: Truth (a beginning)
 date: 2019-04-02T19:59:29.501Z
