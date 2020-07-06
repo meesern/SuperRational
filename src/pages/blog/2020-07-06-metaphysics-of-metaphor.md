@@ -1,9 +1,9 @@
 ---
 draft: false
 templateKey: blog-post
-title: The Metaphysics of Metaphor
+title: MoM and the Scientific World View
 date: 2020-07-06T12:21:49.976Z
-description: 'An introduction to a new paradigm that we have always known'
+description: 'An introduction to the new paradigm that we have always known'
 ---
 
 Korzybski missed it when he wrote in 'Science and Sanity' about the verb 'to be' that on one thing is another.  He said that the unspeakable objects of our experience are not the words that we use to describe them.  This dichotomy has troubled thinking from Aristotle to the modern day.  Whether in religion, politics or science, the endeavor is to describe the world and how it functions.  Many philosophers have pointed out the futility of this since we are intimately involved in the construction of our worlds through our experience and other pathways.  In other words we can never truly know what the world is.  And yet, engineers build machines that can explore the solar system through this system of understanding that is supposed to be futile.  The fundamental principle of the metaphysics of metaphor states that "We cannot know what the world is, but we can know what it is like." And this shift of emphasis changes the world.
