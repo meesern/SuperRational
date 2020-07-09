@@ -1,0 +1,22 @@
+---
+draft: false
+templateKey: blog-post
+title: Truth - Verdict or Tautology
+date: 2020-07-09T00:00:00.000Z
+description: 'A taxonomy of truth'
+---
+
+If we cannot know the world, but can only know what the world is like, what happens to the notion of truth?  How can anything be true if it is 'only' a metaphor?  The second principle of the Metaphysics of Metaphor states that truth is either a verdict or a tautology.  In other words a 'truth' is either a verdict about the world - a judgement.  Either that or it is an absolute truth that is inevitably true because the structure of its statement makes is so - a tautology.  Tautological truths are disconnected from the world.
+
+An example of a verdictory truth would be 'This mug is red."  This is a verdict made by a being translating their experience of the physical world.  It arises from living in a world that is very much like a world that has an objective entity called a mug which has the property of redness.  This is not an absolute truth but a verdict.  
+
+An example of a tautological truth would be an Aristotelian Syllogism - "If all men are mortal and Socrates is a man then Socrates is mortal."  This statement is an absolute truth the absoluteness of which depends on the 'If'.  In other words "If these propositions are true and the logical rules apply then the conclusion must be true" - but only because of the 'if', present or implied.  This word in any argument of logic at once makes the resulting truth unassailable and detaches it from the world.  Since it is disconnected from the actual material of the world we live in this class of truths is tautological - true because they are true.  
+
+The field of Mathematics is significantly one which deals only in tautological truths.  "One plus one equals two."  Fundamentally true because of the rules we apply (which Bertrand Russell and Alfred North Whitehead took some pains over).  However Mathematics never tells absolute truths about the world, rather it gives guidance to the metaphor that we understand an aspect of the world by.  We live in a world comfortably like one in which one apple plus one apple gives us two apples, but not in a world where one raindrop plus one raindrop gives us two raindrops.  We live in a world very much like one in which objects attract each other according to a force proportional to the masses of the objects, the gravitational constant and the inverse of the square of the distance from the centers of mass.  But also not.  Newtons rules for gravity are absolute and tautological so long as they are not applied to the world.  As soon as they are applied through any experiment or observation they become verdicts applied to a particular model or metaphor of the world.  There they either suit or do not.  These verdicts suit very well for building bridges, and not so well for interplanetary navigation where a different metaphor - one described by Einstein - provides a better fit to underlying reality.  
+
+The assertion within the metaphysics of metaphor is that all truths are verdicts unless they are tautological - that is they are 'true because they are true'.  There are no absolute truths that apply directly to the physical world.  
+
+In the verdictory example above - "This mug is red" - we can say lighting conditions were such that the mug appeared red - but was in fact white.  This seems at once to illustrate the principle and contradict it.  The judgement that it was red is shown to be a verdict, but the mug actually - in reality was white.  This actual white mug must be an absolute truth surely.  The first thing to notice is how easily the tautological 'if' arises, and it is this hypothetical which creeps up on us, that always gives rise to the sense of absolute.  The mug does not exist, it is the object of a discussion in a blog post.  'If' it did exist and was white then it would be white.  This is absolutely true and a tautology - true because it is true.  If a mug existed and was white then it would be white.  However the experience, confirmation, reporting of the colour of an actual mug, or any other property or pattern we observe in the world must be a verdict.  These verdicts about the world are of the form "The world is like X".  And in many fields we can get astonishing precision about just how like X the world is, but truths about the world remain verdicts that the metaphor at play fits underlying reality. 
+
+
+
